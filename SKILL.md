@@ -343,3 +343,7 @@ This skill works in Claude Code, Cowork, or any agent that can launch subagents 
 Built from a live audit session, 2026-04-06. Dustin Pollock and EOM ran the full pipeline by hand, recorded every step, then packaged the recording as this skill. The process wrote itself.
 
 Inspired by jeremyknows/watson-toolkit (packaging model) and jeremyknows/claude-context-audit (context weight methodology).
+
+## Related tools
+
+- [eyeofhorus](https://github.com/cogpros/eyeofhorus). Graph-powered bug hunter built on the same GitNexus index. This skill maps and scores the stack, EyeofHorus hunts bugs in it.
